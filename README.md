@@ -4,7 +4,7 @@
 
 > PUBG (Player Unknown Battleground)
 
--  I chose PUBG (Player Unknown Battleground). Which is a battle royal game with different modes of game. I chose this game because I have played this game many times and I am very familiar with the all aspects of this game. Here, I choose one of its game modes which is called TDM (Team Death Match). 
+-  PUBG (Player Unknown Battleground). Which is a battle royal game with different modes of game. I chose this game because I have played this game many times and I am very familiar with the all aspects of this game. Here, I choose one of its game modes which is called TDM (Team Death Match). 
 
 -  Team Death Match: is a mode in the game where you play with 3 other players (total 4 players including you) with another team with 4 players on a smaller map than the usual Battle Royale Maps. Your team's aim is to get a certain number of kills (mostly 40) in a limited amount of time to win.
 
