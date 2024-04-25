@@ -46,4 +46,4 @@ The Player class has a reference to a Loadout object, which represents the playe
  - This whole process also takes place in the alternative box. Where with the
    condiotn is If then the whole match process takes in place. Else, it’s end.
 
-![Sequence_diagram](https://github.com/Manthan8567/Final_Project_Information_System_Development/files/15104266/20230308092725_Final_Project_Sequence_Diagram.pdf) 
+![Sequence_diagram](https://github.com/Manthan8567/Final_Project_Information_System_Development/assets/124721292/c71c85ea-7709-45eb-916d-dbd0dcfc54a9) 
